@@ -4,7 +4,7 @@
 
 .container{
   width: 1920px;
-  height: 1350px;
+  height: 1080px;
 }
 
 * {
@@ -91,17 +91,13 @@ nav ul li:nth-child(5n) a {
   font-size: 50px;
 }
 
-.division-bar{
+.division-bar {
   position: relative;
   width: 1920px;
   height: 15px;
-  top: 675px;
+  top: 540px;
   margin: auto;
   background-color: black;
-}
-
-.icon-holder {
-
 }
 
 .BottomBanner {
@@ -109,7 +105,7 @@ nav ul li:nth-child(5n) a {
   width: 1920px;
   height: 150px;
   background-color: black;
-  top: 1350px;
+  top: 1080px;
 }
 
 .lefttext p {
@@ -124,7 +120,7 @@ nav ul li:nth-child(5n) a {
   position: relative;
   color: #E25A1C;
   top: 35px;
-  left: 900px;
+  text-align: center;
   font-size: 20px;
 }
 
@@ -134,4 +130,77 @@ nav ul li:nth-child(5n) a {
   top: 5px;
   left: 1770px;
   font-size: 20px;
+}
+
+.textexplanation h3 {
+  position: relative;
+  top: 250px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.textexplanation p {
+  position: relative;
+  top: 250px;
+  text-align: center;
+  font-size: 20px;
+}
+
+/*The Grid*/
+.gallery1 {
+  width: 500px;
+  height: 500px;
+  padding: 0;
+  margin: 0;
+}
+
+.gallery2 {
+  width: 500px;
+  height: 500px;
+}
+
+.gallery3 {
+  width: 500px;
+  height: 500px;
+}
+
+.gallery4 {
+  width: 500px;
+  height: 500px;
+}
+
+.gallery5 {
+  width: 500px;
+  height: 500px;
+}
+
+.gallery6 {
+  width: 500px;
+  height: 500px;
+}
+
+.gallery7 {
+  width: 500px;
+  height: 500px;
+}
+
+.gallery8 {
+  width: 500px;
+  height: 500px;
+}
+
+.gallery9 {
+  width: 500px;
+  height: 500px;
+}
+
+.gallery10 {
+  width: 500px;
+  height: 500px;
+}
+
+/* The Images */
+.gallery-img {
+  width: 500px;
+  height: 500px;
 }
