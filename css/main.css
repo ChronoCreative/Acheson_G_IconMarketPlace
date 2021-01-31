@@ -156,6 +156,7 @@ nav ul li:nth-child(5n) a {
 
 /*The Grid*/
 .gallery1 {
+  cursor: pointer;
   position: absolute;
   left: 50px;
   top: 870px;
@@ -164,6 +165,7 @@ nav ul li:nth-child(5n) a {
 }
 
 .gallery2 {
+  cursor: pointer;
   position: absolute;
   left: 450px;
   top: 870px;
@@ -172,6 +174,7 @@ nav ul li:nth-child(5n) a {
 }
 
 .gallery3 {
+  cursor: pointer;
   position: absolute;
   left: 850px;
   top: 870px;
@@ -180,6 +183,7 @@ nav ul li:nth-child(5n) a {
 }
 
 .gallery4 {
+  cursor: pointer;
   position: absolute;
   left: 1250px;
   top: 870px;
@@ -188,6 +192,7 @@ nav ul li:nth-child(5n) a {
 }
 
 .gallery5 {
+  cursor: pointer;
   position: absolute;
   left: 1650px;
   top: 870px;
@@ -196,6 +201,7 @@ nav ul li:nth-child(5n) a {
 }
 
 .gallery6 {
+  cursor: pointer;
   position: absolute;
   left: 50px;
   top: 1130px;
@@ -204,6 +210,7 @@ nav ul li:nth-child(5n) a {
 }
 
 .gallery7 {
+  cursor: pointer;
   position: absolute;
   left: 450px;
   top: 1130px;
@@ -212,6 +219,7 @@ nav ul li:nth-child(5n) a {
 }
 
 .gallery8 {
+  cursor: pointer;
   position: absolute;
   left: 850px;
   top: 1130px;
@@ -220,6 +228,7 @@ nav ul li:nth-child(5n) a {
 }
 
 .gallery9 {
+  cursor: pointer;
   position: absolute;
   left: 1250px;
   top: 1130px;
@@ -228,6 +237,7 @@ nav ul li:nth-child(5n) a {
 }
 
 .gallery10 {
+  cursor: pointer;
   position: absolute;
   left: 1650px;
   top: 1130px;
